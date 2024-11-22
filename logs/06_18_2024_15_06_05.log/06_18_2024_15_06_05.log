@@ -1,0 +1,6 @@
+[2024-06-18 15:06:05,947]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 15:06:05,947]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 15:06:05,950]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 15:06:05,952]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 15:13:50,318]182__main__-ERROR-Error in ask_question: No module named 'docx2txt'
+[2024-06-18 15:13:50,319]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 15:13:50] "POST /ask HTTP/1.1" 200 -

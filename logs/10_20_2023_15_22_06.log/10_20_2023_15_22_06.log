@@ -1,0 +1,6 @@
+[2023-10-20 15:22:08,799]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:22:09,303]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:22:09,303]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:22:09,303]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 15:22:09,318]187werkzeug-INFO- * Debugger PIN: 111-397-391
+[2023-10-20 15:24:33,230]187werkzeug-INFO- * Detected change in 'D:\\Marvel\\eds\\app.py', reloading

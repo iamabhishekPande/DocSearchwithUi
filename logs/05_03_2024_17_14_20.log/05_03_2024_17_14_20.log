@@ -1,0 +1,7 @@
+[2024-05-03 17:14:21,549]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:14:21,549]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:14:21,549]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 17:14:21,549]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-03 17:14:26,744]181__main__-ERROR-Error in ask_question: No module named 'docx2txt'
+[2024-05-03 17:14:26,744]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:14:26] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:14:58,142]96werkzeug-INFO- * Detected change in 'C:\\Users\\ronak.vala\\Downloads\\eds 5\\app.py', reloading

@@ -1,0 +1,8 @@
+[2024-05-03 17:20:51,253]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:20:51,253]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:20:51,273]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 17:20:51,276]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-03 17:21:01,844]107sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2024-05-03 17:21:08,602]20chromadb.telemetry.product.posthog-INFO-Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2024-05-03 17:45:28,049]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:45:28] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:51:28,988]96werkzeug-INFO- * Detected change in 'C:\\Users\\ronak.vala\\Downloads\\eds 5\\app.py', reloading

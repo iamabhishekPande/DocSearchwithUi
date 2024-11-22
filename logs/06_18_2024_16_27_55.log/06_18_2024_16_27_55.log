@@ -1,0 +1,18 @@
+[2024-06-18 16:27:55,536]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:27:55,536]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:27:55,536]97werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.13.125:5000
+[2024-06-18 16:27:55,536]97werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2024-06-18 16:27:55,551]97werkzeug-INFO- * Restarting with stat
+[2024-06-18 16:27:56,229]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:27:56,229]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:27:56,235]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 16:27:56,237]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 16:28:09,200]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: C:\Users\AIMaster\.cache\huggingface\hub\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-06-18 16:28:09,201]1192sentence_transformers.SentenceTransformer-WARNING-No sentence-transformers model found with name C:\Users\AIMaster\.cache\huggingface\hub\models--sentence-transformers--all-MiniLM-L6-v2. Creating a new one with MEAN pooling.
+[2024-06-18 16:28:09,201]177__main__-ERROR-Error in ask_question: C:\Users\AIMaster\.cache\huggingface\hub\models--sentence-transformers--all-MiniLM-L6-v2 does not appear to have a file named config.json. Checkout 'https://huggingface.co/C:\Users\AIMaster\.cache\huggingface\hub\models--sentence-transformers--all-MiniLM-L6-v2/tree/None' for available files.
+[2024-06-18 16:28:09,201]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 16:28:09] "POST /ask HTTP/1.1" 200 -
+[2024-06-18 16:29:43,807]97werkzeug-INFO- * Detected change in 'D:\\Dhyey Document Search\\app.py', reloading
+[2024-06-18 16:29:44,096]97werkzeug-INFO- * Restarting with stat

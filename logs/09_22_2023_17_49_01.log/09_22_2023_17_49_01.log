@@ -1,0 +1,6 @@
+[2023-09-22 17:49:03,295]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-09-22 17:49:03,857]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-09-22 17:49:03,857]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-09-22 17:49:03,881]187werkzeug-WARNING- * Debugger is active!
+[2023-09-22 17:49:03,886]187werkzeug-INFO- * Debugger PIN: 348-009-366
+[2023-09-22 17:49:30,089]187werkzeug-INFO-127.0.0.1 - - [22/Sep/2023 17:49:30] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -

@@ -1,0 +1,14 @@
+[2024-11-11 19:03:38,754]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-11-11 19:03:38,754]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-11-11 19:03:38,765]97werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5006
+ * Running on http://172.16.13.125:5006
+[2024-11-11 19:03:38,765]97werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2024-11-11 19:03:38,770]97werkzeug-INFO- * Restarting with watchdog (windowsapi)
+[2024-11-11 19:03:39,447]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-11-11 19:03:39,447]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-11-11 19:03:39,447]97werkzeug-WARNING- * Debugger is active!
+[2024-11-11 19:03:39,447]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-11-11 19:08:38,198]97werkzeug-INFO- * Detected change in 'C:\\Users\\AIMaster\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py', reloading
+[2024-11-11 19:08:38,626]97werkzeug-INFO- * Restarting with watchdog (windowsapi)

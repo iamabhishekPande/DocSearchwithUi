@@ -1,0 +1,9 @@
+[2024-05-03 17:17:53,121]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:17:53,121]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:17:53,131]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 17:17:53,135]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-03 17:18:08,634]181__main__-ERROR-Error in ask_question: cannot access local variable 'texts' where it is not associated with a value
+[2024-05-03 17:18:08,635]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:18:08] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:18:32,342]181__main__-ERROR-Error in ask_question: cannot access local variable 'texts' where it is not associated with a value
+[2024-05-03 17:18:32,342]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:18:32] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:18:33,600]96werkzeug-INFO- * Detected change in 'C:\\Users\\ronak.vala\\Downloads\\eds 5\\app.py', reloading

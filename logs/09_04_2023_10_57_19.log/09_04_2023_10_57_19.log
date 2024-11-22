@@ -1,0 +1,8 @@
+[2023-09-04 10:57:21,784]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-09-04 10:57:24,404]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-09-04 10:57:24,405]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-09-04 10:57:32,510]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-09-04 10:57:34,885]187werkzeug-WARNING- * Debugger is active!
+[2023-09-04 10:57:34,892]187werkzeug-INFO- * Debugger PIN: 111-397-391
+[2023-09-04 10:58:03,382]187werkzeug-INFO-127.0.0.1 - - [04/Sep/2023 10:58:03] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+[2023-09-04 10:58:36,336]187werkzeug-INFO- * Detected change in 'D:\\Marvel\\eds\\modules\\analysis.py', reloading

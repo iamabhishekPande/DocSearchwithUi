@@ -1,0 +1,4 @@
+[2023-08-22 19:54:47,755]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-22 19:54:50,711]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 19:54:50,712]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 19:54:50,714]39root-INFO-Loading document batch

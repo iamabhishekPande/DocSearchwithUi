@@ -1,0 +1,9 @@
+[2024-11-13 10:18:01,390]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-13 10:18:02,778]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-13 10:18:04,685]20chromadb.telemetry.product.posthog-INFO-Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2024-11-13 10:18:11,151]348chromadb.segment.impl.vector.local_persistent_hnsw-WARNING-Number of requested results 4 is greater than number of elements in index 3, updating n_results = 3
+[2024-11-13 10:18:11,151]348chromadb.segment.impl.vector.local_persistent_hnsw-WARNING-Number of requested results 4 is greater than number of elements in index 3, updating n_results = 3
+[2024-11-13 10:25:39,746]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-13 10:36:08,115]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-13 10:53:05,310]123__main__-ERROR-Error in ask_question: A process in the process pool was terminated abruptly while the future was running or pending.
+[2024-11-13 10:53:17,947]123__main__-ERROR-Error in ask_question: A process in the process pool was terminated abruptly while the future was running or pending.

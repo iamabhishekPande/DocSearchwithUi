@@ -1,0 +1,2 @@
+[2024-11-13 10:16:19,519]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: /app/models/Embeddings/models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-13 10:16:19,519]123__main__-ERROR-Error in ask_question: Path /app/models/Embeddings/models--sentence-transformers--all-MiniLM-L6-v2 not found

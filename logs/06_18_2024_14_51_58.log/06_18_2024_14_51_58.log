@@ -1,0 +1,17 @@
+[2024-06-18 14:51:59,155]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:51:59,155]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:51:59,159]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 14:51:59,161]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 14:52:38,194]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:52:38] code 400, message Bad request version ('À\x13À')
+[2024-06-18 14:52:38,194]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:52:38] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03\x0dÔ\x1f\x08wã¹\x88­Ñ\x96&é.¼\x86\x8fYáñÃ×\x8eÍ,\x7fS÷Æ\\Æß ½æ\x15q\x10Î®ôê³ï\x08ê\x82=Ñ#8\x01\x90Ô\x9ad¥ ÓþË¡\x12\x13î\x00$\x13\x03\x13\x01\x13\x02À/À+À0À,Ì©Ì¨À\x09À\x13À[0m" 400 -
+[2024-06-18 14:52:39,006]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:52:39] code 400, message Bad request version ("Xê©Ò%m\x80\x9e\x11¢\x0eð\x1b'¿")
+[2024-06-18 14:52:39,006]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:52:39] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03F\x8cµÇ\x93\x8c\x15§âN\x0f]",\x92\\°¹¯¶ö)ÿq\x89ëBãÄÕ\x07a y§\x93 ä¢igôâ:\x08\x0dXê©Ò%m\x80\x9e\x11¢\x0eð\x1b'¿[0m" 400 -
+[2024-06-18 14:52:39,194]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:52:39] code 400, message Bad request version ('÷Ñ¾áJ\x96ñÄ°\x08Û\x14°`²~+J')
+[2024-06-18 14:52:39,194]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:52:39] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x035DüÊ\x01¼×ß\x98\x0eÝÏ©_\x94v\x02@k^àS\x10ÞÈø¿{Ù\x80B\x86 ½\x9a\x1fÇT\x9d4ë \x1e÷Ñ¾áJ\x96ñÄ°\x08Û\x14°`²~+J[0m" 400 -
+[2024-06-18 14:52:39,399]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:52:39] code 400, message Bad request syntax ('\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03Í')
+[2024-06-18 14:52:39,399]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:52:39] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03Í[0m" 400 -
+[2024-06-18 14:52:39,600]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:52:39] code 400, message Bad request version ('À\x13À')
+[2024-06-18 14:52:39,600]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:52:39] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03GÀ\x07ô\x05q\x04=Á\x82\x95þÜ6ËE\x02\x99ÿ{t^u-Wõ4\x89ËWã£ \x08Ø1îEHÌcõÜß{Fè\x06!ýÈPHD¸wG\x85do\x8esÄzT\x00$\x13\x03\x13\x01\x13\x02À/À+À0À,Ì©Ì¨À\x09À\x13À[0m" 400 -
+[2024-06-18 14:52:44,660]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:52:44] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03õ·úC9¼\x87¥ü\x11¹')
+[2024-06-18 14:52:44,660]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:52:44] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03õ·úC9¼\x87¥ü\x11¹\x1dj\x84`:õí¹¢t<,[0m" 400 -
+[2024-06-18 14:53:10,276]97werkzeug-INFO- * Detected change in 'D:\\Dhyey Document Search\\app.py', reloading

@@ -1,0 +1,17 @@
+[2023-10-20 15:03:34,842]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:03:35,367]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:03:35,367]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:03:35,381]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 15:03:35,387]187werkzeug-INFO- * Debugger PIN: 111-397-391
+[2023-10-20 15:03:51,420]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:03:51] "GET / HTTP/1.1" 200 -
+[2023-10-20 15:03:51,477]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:03:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-10-20 15:06:46,150]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 15:06:56,250]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:06:56] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+[2023-10-20 15:06:56,465]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:06:56] "GET /ask?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-10-20 15:06:56,465]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:06:56] "GET /ask?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-10-20 15:06:56,505]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:06:56] "GET /ask?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-10-20 15:16:14,065]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 15:16:18,125]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:16:18] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+[2023-10-20 15:16:18,175]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:16:18] "[36mGET /ask?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-10-20 15:16:18,180]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:16:18] "[36mGET /ask?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-10-20 15:16:18,187]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:16:18] "[36mGET /ask?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

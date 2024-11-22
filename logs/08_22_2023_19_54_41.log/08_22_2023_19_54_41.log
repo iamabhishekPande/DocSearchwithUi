@@ -1,0 +1,5 @@
+[2023-08-22 19:54:42,955]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-22 19:54:45,537]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 19:54:45,538]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 19:54:53,730]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 19:54:55,160]67openai-INFO-error_code=404 error_message='Resource not found' error_param=None error_type=None message='OpenAI API error received' stream_error=False

@@ -1,0 +1,14 @@
+[2024-06-18 14:53:37,532]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:53:37,532]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:53:37,532]97werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.13.125:5000
+[2024-06-18 14:53:37,532]97werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2024-06-18 14:53:37,532]97werkzeug-INFO- * Restarting with stat
+[2024-06-18 14:53:38,207]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:53:38,210]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:53:38,210]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 14:53:38,210]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 14:54:13,575]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:54:13] code 400, message Bad request version ('À\x13À')
+[2024-06-18 14:54:13,575]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:54:13] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03X¥Å'[ûãõëá\x97C2\x0cÑ\x08©\x98ÌK\x9b7s¬ñì\x18\x8e¶Á\x0e\\ Ýv\x9a\x1el]\x02,\x8c÷®û¬yVDçs\x8a%k«·¼+"\x03CÍÁ\x9e\x8e\x00$\x13\x03\x13\x01\x13\x02À/À+À0À,Ì©Ì¨À\x09À\x13À[0m" 400 -

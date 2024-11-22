@@ -1,0 +1,9 @@
+[2023-09-22 17:18:56,330]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-09-22 17:18:58,761]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-09-22 17:18:58,761]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-09-22 17:18:58,762]187werkzeug-WARNING- * Debugger is active!
+[2023-09-22 17:18:58,778]187werkzeug-INFO- * Debugger PIN: 392-401-460
+[2023-09-22 17:18:58,997]187werkzeug-INFO-127.0.0.1 - - [22/Sep/2023 17:18:58] "GET / HTTP/1.1" 200 -
+[2023-09-22 17:18:58,997]187werkzeug-INFO-127.0.0.1 - - [22/Sep/2023 17:18:58] "GET / HTTP/1.1" 200 -
+[2023-09-22 17:18:59,060]187werkzeug-INFO-127.0.0.1 - - [22/Sep/2023 17:18:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-09-22 17:19:55,503]187werkzeug-INFO- * Detected change in 'D:\\Marvel\\eds\\app.py', reloading

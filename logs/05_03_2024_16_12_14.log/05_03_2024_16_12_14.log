@@ -1,0 +1,18 @@
+[2024-05-03 16:12:15,884]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 16:12:15,885]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 16:12:15,894]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 16:12:15,896]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-03 17:06:17,484]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:06:17] "GET / HTTP/1.1" 200 -
+[2024-05-03 17:06:17,572]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:06:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-05-03 17:07:46,180]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:07:46] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+[2024-05-03 17:08:49,772]177__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:08:49,772]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:08:49] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:08:50,539]177__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:08:50,540]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:08:50] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:09:39,099]177__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:09:39,099]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:09:39] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:09:39,851]177__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:09:39,851]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:09:39] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:09:40,068]177__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:09:40,068]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:09:40] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:09:40,574]96werkzeug-INFO- * Detected change in 'C:\\Users\\ronak.vala\\Downloads\\eds 5\\app.py', reloading

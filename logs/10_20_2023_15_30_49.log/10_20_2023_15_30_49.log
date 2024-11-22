@@ -1,0 +1,9 @@
+[2023-10-20 15:30:51,899]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:30:52,292]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:30:52,292]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:30:52,308]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 15:30:52,308]187werkzeug-INFO- * Debugger PIN: 348-009-366
+[2023-10-20 15:30:56,561]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 15:31:01,147]148__main__-ERROR-Error in ask_question: Object of type Document is not JSON serializable
+[2023-10-20 15:31:01,147]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:31:01] "POST /ask HTTP/1.1" 200 -
+[2023-10-20 15:33:59,246]187werkzeug-INFO- * Detected change in 'D:\\Marvel\\eds\\app.py', reloading

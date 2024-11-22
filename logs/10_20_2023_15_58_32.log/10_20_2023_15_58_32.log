@@ -1,0 +1,12 @@
+[2023-10-20 15:58:34,456]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:58:34,784]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:58:34,784]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:58:34,807]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 15:58:34,807]187werkzeug-INFO- * Debugger PIN: 348-009-366
+[2023-10-20 15:58:43,143]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 15:58:50,109]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:58:50] "POST /ask HTTP/1.1" 200 -
+[2023-10-20 15:59:42,159]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 15:59:53,509]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:59:53] "POST /ask HTTP/1.1" 200 -
+[2023-10-20 16:01:18,625]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 16:01:29,192]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 16:01:29] "POST /ask HTTP/1.1" 200 -
+[2023-10-20 16:06:21,472]187werkzeug-INFO- * Detected change in 'D:\\Marvel\\eds\\app.py', reloading

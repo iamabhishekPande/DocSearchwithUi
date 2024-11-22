@@ -1,0 +1,7 @@
+[2024-05-03 17:18:46,740]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:18:46,741]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:18:46,751]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 17:18:46,751]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-03 17:19:21,941]107sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2024-05-03 17:19:28,951]181__main__-ERROR-Error in ask_question: Could not import chromadb python package. Please install it with `pip install chromadb`.
+[2024-05-03 17:19:28,951]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:19:28] "POST /ask HTTP/1.1" 200 -

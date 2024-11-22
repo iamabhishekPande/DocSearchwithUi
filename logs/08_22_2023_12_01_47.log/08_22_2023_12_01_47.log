@@ -1,0 +1,22 @@
+[2023-08-22 12:01:50,214]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-22 12:01:53,036]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 12:01:53,037]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 12:01:53,054]187werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-08-22 12:01:53,054]187werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2023-08-22 12:02:32,308]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:02:37,317]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:02:37] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:03:15,090]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:03:20,753]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:03:20] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:04:30,268]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:04:36,376]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:04:36] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:05:41,402]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:05:47,373]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:05:47] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:06:28,024]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:06:31,338]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:06:31] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:07:01,478]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:07:06,681]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:07:06] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:07:48,381]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:07:53,075]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:07:53] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:08:44,904]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:08:50,403]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:08:50] "POST /ask HTTP/1.1" 200 -

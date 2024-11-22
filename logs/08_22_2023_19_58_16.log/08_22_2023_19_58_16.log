@@ -1,0 +1,5 @@
+[2023-08-22 19:58:18,285]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-22 19:58:20,891]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 19:58:20,891]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 19:58:29,155]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 19:58:31,362]67openai-INFO-error_code=None error_message='Unsupported OpenAI-Version header provided: 2023-04-03. (HINT: you can provide any of the following supported versions: 2020-10-01, 2020-11-07. Alternatively, you can simply omit this header to use the default version associated with your account.)' error_param=headers:openai-version error_type=invalid_request_error message='OpenAI API error received' stream_error=False

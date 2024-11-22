@@ -1,0 +1,11 @@
+[2023-08-22 12:24:05,297]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-22 12:24:07,994]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 12:24:07,994]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 12:24:17,826]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 12:24:20,680]187werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-08-22 12:24:20,680]187werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2023-08-22 12:24:26,071]67openai-INFO-error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+[2023-08-22 12:24:26,071]65langchain.llms.base-WARNING-Retrying langchain.llms.openai.completion_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised RateLimitError: You exceeded your current quota, please check your plan and billing details..
+[2023-08-22 12:24:31,917]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:24:31] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 12:25:41,425]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 12:25:41] "POST /ask HTTP/1.1" 200 -

@@ -1,0 +1,13 @@
+flask
+flask-cors
+transformers
+torch
+langchain
+langchain_community
+chromadb
+sentence-transformers
+PyPDF2
+docx2txt
+ctransformers
+pdfminer.six
+streamlit

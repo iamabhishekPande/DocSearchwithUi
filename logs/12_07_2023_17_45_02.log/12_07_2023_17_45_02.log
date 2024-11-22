@@ -1,0 +1,10 @@
+[2023-12-07 17:45:08,407]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-12-07 17:45:09,477]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-12-07 17:45:09,477]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-12-07 17:45:10,784]187werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.6:5000
+[2023-12-07 17:45:10,784]187werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2023-12-07 17:45:26,431]170__main__-ERROR-Error in ask_question: No module named 'pptx'
+[2023-12-07 17:45:26,432]187werkzeug-INFO-127.0.0.1 - - [07/Dec/2023 17:45:26] "POST /ask HTTP/1.1" 200 -

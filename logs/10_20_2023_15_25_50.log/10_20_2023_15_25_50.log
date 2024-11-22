@@ -1,0 +1,5 @@
+[2023-10-20 15:25:52,344]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:25:52,847]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:25:52,847]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:25:52,847]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 15:25:52,864]187werkzeug-INFO- * Debugger PIN: 111-397-391

@@ -1,0 +1,17 @@
+[2024-06-18 15:20:01,772]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 15:20:01,772]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 15:20:01,787]97werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.13.125:5000
+[2024-06-18 15:20:01,787]97werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2024-06-18 15:20:01,787]97werkzeug-INFO- * Restarting with stat
+[2024-06-18 15:20:02,463]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 15:20:02,464]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 15:20:02,469]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 15:20:02,471]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 15:20:08,191]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2024-06-18 15:20:14,400]20chromadb.telemetry.product.posthog-INFO-Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2024-06-18 15:23:32,345]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 15:23:32] "POST /ask HTTP/1.1" 200 -
+[2024-06-18 15:40:09,681]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[2024-06-18 15:43:57,367]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 15:43:57] "POST /ask HTTP/1.1" 200 -

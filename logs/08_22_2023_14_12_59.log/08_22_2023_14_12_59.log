@@ -1,0 +1,12 @@
+[2023-08-22 14:13:01,942]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-22 14:13:04,601]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 14:13:04,601]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-22 14:13:12,801]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-22 14:13:16,549]187werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.2:5000
+[2023-08-22 14:13:16,549]187werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2023-08-22 14:15:48,405]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 14:15:48] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 14:16:38,127]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 14:16:38] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 14:17:46,769]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 14:17:46] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 14:18:37,872]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 14:18:37] "POST /ask HTTP/1.1" 200 -
+[2023-08-22 14:20:15,817]187werkzeug-INFO-127.0.0.1 - - [22/Aug/2023 14:20:15] "POST /ask HTTP/1.1" 200 -

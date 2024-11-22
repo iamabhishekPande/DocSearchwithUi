@@ -1,0 +1,5 @@
+[2024-05-06 09:56:28,633]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-06 09:56:28,633]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-06 09:56:28,658]96werkzeug-WARNING- * Debugger is active!
+[2024-05-06 09:56:28,658]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-06 09:57:13,882]96werkzeug-INFO- * Detected change in 'C:\\Users\\ronak.vala\\Downloads\\code for document search\\appnew.py', reloading

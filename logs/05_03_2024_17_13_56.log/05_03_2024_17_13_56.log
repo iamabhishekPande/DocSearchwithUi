@@ -1,0 +1,13 @@
+[2024-05-03 17:13:58,549]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:13:58,549]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:13:58,574]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 17:13:58,577]96werkzeug-INFO- * Debugger PIN: 505-586-798
+[2024-05-03 17:14:01,519]181__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:14:01,519]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:14:01] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:14:03,229]181__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:14:03,230]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:14:03] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:14:04,736]181__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:14:04,736]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:14:04] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:14:19,188]181__main__-ERROR-Error in ask_question: range() arg 3 must not be zero
+[2024-05-03 17:14:19,189]96werkzeug-INFO-127.0.0.1 - - [03/May/2024 17:14:19] "POST /ask HTTP/1.1" 200 -
+[2024-05-03 17:14:19,492]96werkzeug-INFO- * Detected change in 'C:\\Users\\ronak.vala\\Downloads\\eds 5\\constants.py', reloading

@@ -1,0 +1,119 @@
+[2023-08-21 19:32:49,224]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-08-21 19:32:52,300]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-21 19:32:52,300]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-08-21 19:32:52,318]187werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-08-21 19:32:52,318]187werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2023-08-21 19:33:20,795]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-08-21 19:33:27,080]187werkzeug-INFO-127.0.0.1 - - [21/Aug/2023 19:33:27] "POST /ask HTTP/1.1" 200 -
+[2023-08-21 19:36:19,278]1414app-ERROR-Exception on /ask [POST]
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\concurrent\futures\process.py", line 256, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Marvel\eds\ingestion\ingest.py", line 45, in load_document_batch
+    data_list = [future.result() for future in futures]
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Marvel\eds\ingestion\ingest.py", line 45, in <listcomp>
+    data_list = [future.result() for future in futures]
+                 ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Program Files\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Marvel\eds\ingestion\ingest.py", line 35, in load_single_document
+    return loader.load()[0]
+           ^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\langchain\document_loaders\unstructured.py", line 86, in load
+    elements = self._get_elements()
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\langchain\document_loaders\powerpoint.py", line 64, in _get_elements
+    return partition_pptx(filename=self.file_path, **self.unstructured_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\unstructured\documents\elements.py", line 237, in wrapper
+    elements = func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\unstructured\file_utils\filetype.py", line 630, in wrapper
+    elements = func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\unstructured\partition\pptx.py", line 76, in partition_pptx
+    presentation = pptx.Presentation(filename)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\api.py", line 28, in Presentation
+    presentation_part = Package.open(pptx).main_document_part
+                        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\package.py", line 73, in open
+    return cls(pkg_file)._load()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\package.py", line 157, in _load
+    pkg_xml_rels, parts = _PackageLoader.load(self._pkg_file, self)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\package.py", line 186, in load
+    return cls(pkg_file, package)._load()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\package.py", line 190, in _load
+    parts, xml_rels = self._parts, self._xml_rels
+                      ^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\package.py", line 219, in _parts
+    content_types = self._content_types
+                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\package.py", line 203, in _content_types
+    return _ContentTypeMap.from_xml(self._package_reader[CONTENT_TYPES_URI])
+                                    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\serialized.py", line 35, in __getitem__
+    return self._blob_reader[pack_uri]
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\util.py", line 215, in __get__
+    value = self._fget(obj)
+            ^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\serialized.py", line 49, in _blob_reader
+    return _PhysPkgReader.factory(self._pkg_file)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\pptx\opc\serialized.py", line 135, in factory
+    raise PackageNotFoundError("Package not found at '%s'" % pkg_file)
+pptx.exc.PackageNotFoundError: Package not found at 'D:\Marvel\eds\source_documents\~$Final PPT for OPEn AI.pptx'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\parth.chaturvedi\AppData\Roaming\Python\Python311\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Marvel\eds\app.py", line 61, in ask_question
+    documents = load_documents(SOURCE_DIRECTORY)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Marvel\eds\ingestion\ingest.py", line 76, in load_documents
+    contents, _ = future.result()
+                  ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+pptx.exc.PackageNotFoundError: Package not found at 'D:\Marvel\eds\source_documents\~$Final PPT for OPEn AI.pptx'
+[2023-08-21 19:36:19,306]187werkzeug-INFO-127.0.0.1 - - [21/Aug/2023 19:36:19] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -

@@ -1,0 +1,8 @@
+[2023-10-20 15:34:12,107]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:34:12,480]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:34:12,480]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:34:12,517]187werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+[2023-10-20 15:34:12,518]187werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2023-10-20 15:34:12,520]187werkzeug-INFO- * Restarting with stat
+[2023-10-20 15:35:34,220]187werkzeug-INFO- * Restarting with stat

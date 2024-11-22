@@ -1,0 +1,6 @@
+[2024-06-18 14:47:31,926]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:47:31,926]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 14:47:31,930]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 14:47:31,932]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 14:50:53,602]97werkzeug-ERROR-127.0.0.1 - - [18/Jun/2024 14:50:53] code 400, message Bad request version ('À\x13À')
+[2024-06-18 14:50:53,603]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 14:50:53] "[31m[1m\x16\x03\x01\x00ף\x01\x00\x00ן\x03\x03\x0bm\x7f‗ט[Lח\x19\x00\x1eזנ\x09\x14\x1b\x9d5ת¼)\x12>\x91uךûץ2\x98ח¬ \x9cג·ו$¥1®Ò\x80³×~²Ò \x9fÙדרHt\x91/#0·LWצCv\x00$\x13\x03\x13\x01\x13\x02À/À+À0À,Ì©Ì¨À\x09À\x13À[0m" 400 -

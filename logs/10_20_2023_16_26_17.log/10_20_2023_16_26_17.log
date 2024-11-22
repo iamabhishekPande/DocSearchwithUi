@@ -1,0 +1,7 @@
+[2023-10-20 16:26:19,471]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 16:26:19,832]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 16:26:19,832]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 16:26:19,848]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 16:26:19,848]187werkzeug-INFO- * Debugger PIN: 348-009-366
+[2023-10-20 16:26:23,722]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 16:26:27,707]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 16:26:27] "POST /ask HTTP/1.1" 200 -

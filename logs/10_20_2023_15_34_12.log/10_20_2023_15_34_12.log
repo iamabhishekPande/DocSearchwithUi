@@ -1,0 +1,9 @@
+[2023-10-20 15:34:14,909]160numexpr.utils-INFO-NumExpr defaulting to 6 threads.
+[2023-10-20 15:34:15,254]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:34:15,254]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2023-10-20 15:34:15,270]187werkzeug-WARNING- * Debugger is active!
+[2023-10-20 15:34:15,270]187werkzeug-INFO- * Debugger PIN: 348-009-366
+[2023-10-20 15:34:18,840]16chromadb.telemetry.posthog-INFO-Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+[2023-10-20 15:34:22,771]153__main__-ERROR-Error in ask_question: dict.get() takes no keyword arguments
+[2023-10-20 15:34:22,771]187werkzeug-INFO-127.0.0.1 - - [20/Oct/2023 15:34:22] "POST /ask HTTP/1.1" 200 -
+[2023-10-20 15:35:33,738]187werkzeug-INFO- * Detected change in 'D:\\Marvel\\eds\\app.py', reloading

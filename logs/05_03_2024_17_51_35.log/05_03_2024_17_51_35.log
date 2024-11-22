@@ -1,0 +1,4 @@
+[2024-05-03 17:51:37,939]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:51:37,939]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:51:37,967]96werkzeug-WARNING- * Debugger is active!
+[2024-05-03 17:51:37,970]96werkzeug-INFO- * Debugger PIN: 505-586-798

@@ -1,0 +1,1 @@
+[2024-11-12 12:20:24,542]118__main__-ERROR-Error in ask_question: `pdfminer` package not found, please install it with `pip install pdfminer.six`

@@ -1,0 +1,2 @@
+[2024-11-12 12:53:49,370]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-12 12:53:50,808]20chromadb.telemetry.product.posthog-INFO-Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.

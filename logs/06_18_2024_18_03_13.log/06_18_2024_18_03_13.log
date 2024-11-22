@@ -1,0 +1,6 @@
+[2024-06-18 18:03:14,676]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 18:03:14,676]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 18:03:14,682]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 18:03:14,683]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 18:04:26,062]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: C:\Users\AIMaster\.cache\huggingface\hub\models--sentence-transformers--all-MiniLM-L6-v2\8b3219a92973c328a8e22fadcfa821b5dc75636a
+[2024-06-18 18:04:27,583]20chromadb.telemetry.product.posthog-INFO-Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.

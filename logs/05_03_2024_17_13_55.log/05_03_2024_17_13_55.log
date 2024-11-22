@@ -1,0 +1,15 @@
+[2024-05-03 17:13:56,498]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:13:56,498]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-05-03 17:13:56,543]96werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.12.143:5000
+[2024-05-03 17:13:56,544]96werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2024-05-03 17:13:56,545]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:14:19,668]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:15:00,124]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:15:14,907]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:15:50,289]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:16:06,101]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:16:13,118]96werkzeug-INFO- * Restarting with stat
+[2024-05-03 17:16:32,021]96werkzeug-INFO- * Restarting with stat

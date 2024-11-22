@@ -1,0 +1,7 @@
+[2024-11-12 14:28:46,963]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-12 14:28:48,512]20chromadb.telemetry.product.posthog-INFO-Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2024-11-12 14:28:51,465]138chromadb.segment.impl.vector.local_hnsw-WARNING-Number of requested results 4 is greater than number of elements in index 1, updating n_results = 1
+[2024-11-12 14:34:48,213]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-12 14:34:50,135]138chromadb.segment.impl.vector.local_hnsw-WARNING-Number of requested results 4 is greater than number of elements in index 2, updating n_results = 2
+[2024-11-12 14:55:41,386]113sentence_transformers.SentenceTransformer-INFO-Load pretrained SentenceTransformer: D:\StableGPT\models\Embeddings\models--sentence-transformers--all-MiniLM-L6-v2
+[2024-11-12 14:55:52,091]138chromadb.segment.impl.vector.local_hnsw-WARNING-Number of requested results 4 is greater than number of elements in index 3, updating n_results = 3

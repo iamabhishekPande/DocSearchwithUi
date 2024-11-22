@@ -1,0 +1,17 @@
+[2024-06-18 16:22:05,643]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:22:05,644]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:22:05,655]97werkzeug-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.13.125:5000
+[2024-06-18 16:22:05,655]97werkzeug-INFO-[33mPress CTRL+C to quit[0m
+[2024-06-18 16:22:05,655]97werkzeug-INFO- * Restarting with stat
+[2024-06-18 16:22:06,347]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:22:06,347]361flask_cors.core-WARNING-Unknown option passed to Flask-CORS: support_credentials
+[2024-06-18 16:22:06,353]97werkzeug-WARNING- * Debugger is active!
+[2024-06-18 16:22:06,354]97werkzeug-INFO- * Debugger PIN: 143-611-533
+[2024-06-18 16:23:43,767]97werkzeug-INFO-127.0.0.1 - - [18/Jun/2024 16:23:43] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+[2024-06-18 16:27:31,339]97werkzeug-INFO- * Detected change in 'D:\\Dhyey Document Search\\app.py', reloading
+[2024-06-18 16:27:31,402]97werkzeug-INFO- * Restarting with stat
+[2024-06-18 16:27:32,356]97werkzeug-INFO- * Restarting with stat
+[2024-06-18 16:27:46,693]97werkzeug-INFO- * Restarting with stat
